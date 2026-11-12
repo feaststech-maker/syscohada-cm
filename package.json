@@ -1,15 +1,8 @@
 {
-  "name": "syscohada-cm",
+  "name": "your-app",
   "version": "1.0.0",
-  "private": true,
   "scripts": {
-    "build": "echo build"
-  }
-}
-
-
-{
-  "scripts": {
+    "build": "echo build",
     "start": "node server.js"
   }
 }
