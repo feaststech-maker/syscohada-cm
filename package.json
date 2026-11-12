@@ -6,3 +6,10 @@
     "build": "echo build"
   }
 }
+
+
+{
+  "scripts": {
+    "start": "node server.js"
+  }
+}
