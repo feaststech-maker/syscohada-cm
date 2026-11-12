@@ -1,0 +1,9 @@
+.env
+.env.*
+!.env.example
+config.local.json
+config.remote.json
+state.json
+*.key
+*.pem
+__pycache__/
