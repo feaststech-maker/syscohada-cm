@@ -1,0 +1,7 @@
+{
+  "domain": "dsf.votredomaine.com",
+  "email": "admin@votredomaine.com",
+  "company": "Mon entreprise",
+  "expected_ipv4": "203.0.113.10",
+  "accept_acme_terms": false
+}
